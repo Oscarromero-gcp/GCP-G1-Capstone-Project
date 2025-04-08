@@ -1,0 +1,11 @@
+First commit: 
+Empty repository, used as the base directoy so we can put the project inside
+
+Second commit "Adding website":
+This commit added the website itself, with all the files necessary so it can run properly
+
+Third commit "Changing names":
+This commit just changes the name of the folder, of the main project, instead of "Europe Travel", we used "Europe_Travel" which gives less issues with commands
+
+Fourth commit "adding app.yaml file"
+This file's addition is essential for deployment in the App Engine service, it contains all the information necessary for flawless deployment
