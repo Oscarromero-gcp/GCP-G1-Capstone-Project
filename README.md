@@ -18,3 +18,9 @@ The Cloud deployment services used are:
 - GKE
 - GCE
 - App engine
+- Cloud run
+
+- GKE: http://34.74.133.151/
+- GCE: http://35.211.155.180/
+- App Engine: https://group1-dev.ue.r.appspot.com/
+- Cloud run: https://capstone-g1-cloud-run-280366590491.us-east4.run.app/
